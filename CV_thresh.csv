@@ -1,0 +1,10 @@
+ID,Type,Tag,Description,HI-Alarm,Normal,LO-Alarm,Unit
+XMV 1,V,161,Valve Position Feed D,99.00,62.89,1.00,%
+XMV 2,V,162,Valve Position Feed E,99.00,53.17,1.00,%
+XMV 3,V,160,Valve Position Feed A,99.00,26.24,1.00,%
+XMV 4,V,163,Valve Position Feed C,99.00,60.57,1.00,%
+XMV 6,V,167,Valve Position Purge,99.00,25.94,1.00,%
+XMV 7,V,168,Valve Position Underflow Separator,99.00,37.22,1.00,%
+XMV 8,V,170,Valve Position Underflow Stripper,99.00,46.43,1.00,%
+XMV 10,V,164,Valve Position Cooling Water Outlet Reactor,99.00,35.95,1.00,%
+XMV 11,V,165,Valve Position Cooling Water Outlet Condenser,99.00,12.34,1.00,%

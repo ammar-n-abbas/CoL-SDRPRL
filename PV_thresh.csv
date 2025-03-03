@@ -1,0 +1,73 @@
+ID;Type;Tag;Description;HI-Alarm;Normal;LO-Alarm;Unit
+XMEAS 1;FIR;100;Flow Feed A;0.95;0.27;0.05;kscmh
+XMEAS 2;FIR;101;Flow Feed D;4020.50;3655.00;3289.50;kgh-1
+XMEAS 3;FIR;102;Flow Feed E;4886.20;4442.00;3997.80;kgh-1
+XMEAS 4;FIR;103;Flow Feed C;10.16;9.24;8.32;kscmh
+XMEAS 5;FIR;114;Flow Compressor Re-Cycle;35.66;32.42;29.18;kscmh
+XMEAS 6;FIR;104;Flow Reactor Feed;52.36;47.60;42.84;kscmh
+XMEAS 7;PIR;108;Pressure Reactor;2895.00;2800.00;0.00;kPa gauge
+XMEAS 8;LIR;106;Level Reactor;100.00 ;65.00 ;50.00 ;%  
+XMEAS 9;TIR;105;Temperature Reactor;150.00;122.90;0.00;C
+XMEAS 10;FIR;115;Flow Purge;0.65;0.21;0.05;kscmh
+XMEAS 11;TIR;118;Temperature Separator;101.22;92.02;82.82;C
+XMEAS 12;LIR;117;Level Separator;100.00;50.00;30.00;%
+XMEAS 13;PIR;116;Pressure Separator;2974.99;2704.54;2434.09;kPa gauge
+XMEAS 14;FIR;119;Underflow Separator;27.79;25.26;22.73;mh-1
+XMEAS 15;LIR;110;Level Stripper;100.00;50.00;30.00;%
+XMEAS 16;PIR;111;Pressure Stripper;3665.255;3332.05;2998.85;kPa gauge
+XMEAS 17;FIR;121;Underflow Stripper;25.18;22.89;20.60;mh-1
+XMEAS 18;TIR;111;Temperature Stripper;73.30;66.64;59.98;C
+XMEAS 20;K;100;Compressor Work;300.32;273.02;245.72;kW
+XMEAS 21;TIR;109;Temperature Cooling Water Outlet Reactor;112.72;102.47;92.22;C
+XMEAS 22;TIR;113;Temperature Cooling Water Outlet Condenser;101.60;92.36;83.12;C
+XMEAS 23;AIR;001;Concentration Reactor Feed (Material A);35.42;32.20;28.98;mol%
+XMEAS 24;AIR;001;Concentration Reactor Feed (Material B);16.38;14.89;13.40;mol%
+XMEAS 25;AIR;001;Concentration Reactor Feed (Material C);20.68;18.80;16.92;mol%
+XMEAS 26;AIR;001;Concentration Reactor Feed (Material D);6.59;5.99;5.39;mol%
+XMEAS 27;AIR;001;Concentration Reactor Feed (Material E);18.30;16.64;14.98;mol%
+XMEAS 28;AIR;001;Concentration Reactor Feed (Material F);4.46;4.05;3.65;mol%
+XMEAS 29;AIR;003;Concentration Purge (Material A);37.61;32.70;27.80;mol%
+XMEAS 30;AIR;003;Concentration Purge (Material B);24.98;21.72;18.46;mol%
+XMEAS 31;AIR;003;Concentration Purge (Material C);15.20;13.22;11.24;mol%
+XMEAS 32;AIR;003;Concentration Purge (Material D);1.25;0.89;0.45;mol%
+XMEAS 33;AIR;003;Concentration Purge (Material E);18.53;16.11;13.69;mol%
+XMEAS 34;AIR;003;Concentration Purge (Material F);6.21;5.40;4.59;mol%
+XMEAS 35;AIR;003;Concentration Purge (Material G);7.68;6.68;5.68;mol%
+XMEAS 36;AIR;003;Concentration Purge (Material H);3.59;3.26;2.93;mol%
+XMEAS 37;AIR;002;Concentration Underflow Stripper (Material D);1.00;0.01;-1.00;mol%
+XMEAS 38;AIR;002;Concentration Underflow Stripper (Material E);0.63;0.57;0.51;mol%
+XMEAS 39;AIR;002;Concentration Underflow Stripper (Material F);0.23;0.18;0.15;mol%
+XMEAS 40;AIR;002;Concentration Underflow Stripper (Material G);59.18;53.80;48.42;mol%
+XMEAS 41;AIR;002;Concentration Underflow Stripper (Material H);48.35;43.95;39.56;mol%
+XMEAS 42;TIR;100;Temperature Feed A;49.5;45.00;40.50;C
+XMEAS 43;TIR;101;Temperature Feed D;49.5;45.00;40.50;C
+XMEAS 44;TIR;102;Temperature Feed E;49.5;45.00;40.50;C
+XMEAS 45;TIR;103;Temperature Feed C;49.5;45.00;40.50;C
+XMEAS 46;TIR;122;Temperature Cooling Water Inlet Reactor;38.5;35.00;31.50;C
+XMEAS 47;FIR;122;Flow Cooling Water Inlet Reactor;89.804;81.64;73.48;mh-1
+XMEAS 48;TIR;123;Temperature Cooling Water Inlet Condenser;44.00;40.00;36.00;C
+XMEAS 49;FIR;123;Flow Cooling Water Inlet Condenser;36.993;33.63;30.27;mh-1
+XMEAS 50;AIR;100;Concentration Feed A (Material A);109.99;99.99;89.99;mol%
+XMEAS 51;AIR;100;Concentration Feed A (Material B);1.00;0.01;-1.00;mol%
+XMEAS 52;AIR;100;Concentration Feed A (Material C);1.00;0.00;-1.00;mol%
+XMEAS 53;AIR;100;Concentration Feed A (Material D);1.00;0.00;-1.00;mol%
+XMEAS 54;AIR;100;Concentration Feed A (Material E);1.00;0.00;-1.00;mol%
+XMEAS 55;AIR;100;Concentration Feed A (Material F);1.00;0.00;-1.00;mol%
+XMEAS 56;AIR;101;Concentration Feed D (Material A);1.00;0.00;-1.00;mol%
+XMEAS 57;AIR;101;Concentration Feed D (Material B);1.00;0.01;-1.00;mol%
+XMEAS 58;AIR;101;Concentration Feed D (Material C);1.00;0.00;-1.00;mol%
+XMEAS 59;AIR;101;Concentration Feed D (Material D);109.99;99.99;89.99;mol%
+XMEAS 60;AIR;101;Concentration Feed D (Material E);1.00;0.00;-1.00;mol%
+XMEAS 61;AIR;101;Concentration Feed D (Material F);1.00;0.00;-1.00;mol%
+XMEAS 62;AIR;102;Concentration Feed E (Material A);1.00;0.00;-1.00;mol%
+XMEAS 63;AIR;102;Concentration Feed E (Material B);1.00;0.00;-1.00;mol%
+XMEAS 64;AIR;102;Concentration Feed E (Material C);1.00;0.00;-1.00;mol%
+XMEAS 65;AIR;102;Concentration Feed E (Material D);1.00;0.00;-1.00;mol%
+XMEAS 66;AIR;102;Concentration Feed E (Material E);109.99;99.99;89.99;mol%
+XMEAS 67;AIR;102;Concentration Feed E (Material F);1.00;0.01;-1.00;mol%
+XMEAS 68;AIR;103;Concentration Feed C (Material A);53.35;48.50;43.65;mol%
+XMEAS 69;AIR;103;Concentration Feed C (Material B);0.80;0.50;0.15;mol%
+XMEAS 70;AIR;103;Concentration Feed C (Material C);56.10;51.00;45.90;mol%
+XMEAS 71;AIR;103;Concentration Feed C (Material D);1.00;0.00;-1.00;mol%
+XMEAS 72;AIR;103;Concentration Feed C (Material E);1.00;0.00;-1.00;mol%
+XMEAS 73;AIR;103;Concentration Feed C (Material F);1.00;0.00;-1.00;mol%
